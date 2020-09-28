@@ -11,4 +11,4 @@ main tables are
 --Loan (Client may take loan or give someone loan)
 --Business (some other business like, accessories, sharemarket)
 ```
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Schema](https://github.com/rahulrajsonu/myMoney/blob/main/personal_finance_schema.png?raw=true)
